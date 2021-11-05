@@ -14,17 +14,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Contemplative/Projects/ProjectOnboarding/ProjectOnboarding.csproj",
+      "projectUniqueName": "/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/ProjectOnboarding.csproj",
       "projectName": "ProjectOnboarding",
-      "projectPath": "/Users/Contemplative/Projects/ProjectOnboarding/ProjectOnboarding.csproj",
+      "projectPath": "/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/ProjectOnboarding.csproj",
       "packagesPath": "/Users/Contemplative/.nuget/packages/",
-      "outputPath": "/Users/Contemplative/Projects/ProjectOnboarding/obj/",
+      "outputPath": "/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        "/Users/Contemplative/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

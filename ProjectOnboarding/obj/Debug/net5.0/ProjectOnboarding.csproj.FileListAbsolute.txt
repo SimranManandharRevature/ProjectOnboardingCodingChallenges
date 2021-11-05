@@ -1,0 +1,15 @@
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.csproj.AssemblyReference.cache
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.AssemblyInfoInputs.cache
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.AssemblyInfo.cs
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.csproj.CoreCompileInputs.cache
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/bin/Debug/net5.0/ProjectOnboarding.deps.json
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/bin/Debug/net5.0/ProjectOnboarding.runtimeconfig.json
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/bin/Debug/net5.0/ProjectOnboarding.runtimeconfig.dev.json
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/bin/Debug/net5.0/ProjectOnboarding.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/bin/Debug/net5.0/ref/ProjectOnboarding.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/bin/Debug/net5.0/ProjectOnboarding.pdb
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ref/ProjectOnboarding.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.pdb
+/Users/Contemplative/Documents/Revature-CodingChallenge/ProjectOnboardingCodingChallenges/ProjectOnboarding/obj/Debug/net5.0/ProjectOnboarding.genruntimeconfig.cache
